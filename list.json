@@ -1,0 +1,51 @@
+{
+  "ieMs2": {
+    "version": "1.0.0-beta",
+    "desc": {
+      "ru": "Импорт/Экспорт товаров miniShop2",
+      "en": "Import/Export of miniShop2 products"
+    }
+  },
+  "ieGallery": {
+    "version": "1.0.0-beta",
+    "desc": {
+      "ru": "Импорт/Экспорт фотогалереи miniShop2 и ms2Gallery",
+      "en": "Import/Export of miniShop2 and ms2Gallery photo galleries"
+    }
+  },
+  "ieMsSalePrice": {
+    "version": "1.0.0-beta",
+    "desc": {
+      "ru": "Импорт/Экспорт данных msSalePrice",
+      "en": "Import/Export msSalePrice data"
+    }
+  },
+  "ieMsOptionsColor": {
+    "version": "1.0.0-beta",
+    "desc": {
+      "ru": "Импорт/Экспорт данных msOptionsColor",
+      "en": "Import/Export msOptionsColor data"
+    }
+  },
+  "ieMsOptionsPrice2": {
+    "version": "1.0.0-beta",
+    "desc": {
+      "ru": "Импорт/Экспорт данных msOptionsPrice2",
+      "en": "Import/Export msOptionsPrice2 data"
+    }
+  },
+  "ieMsProductRemains": {
+    "version": "1.0.0-beta",
+    "desc": {
+      "ru": "Импорт/Экспорт данных MsProductRemains",
+      "en": "Import/Export MsProductRemains data"
+    }
+  },
+  "ieYandexMarket": {
+    "version": "1.0.0-beta",
+    "desc": {
+      "ru": "Экспорт данных для YandexMarket DBS",
+      "en": "Data export for YandexMarket DBS"
+    }
+  }
+}
